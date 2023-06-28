@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IxPopDyMod"]
 	path = IxPopDyMod
 	url = https://github.com/dallenmidd/ixpopdymod
-	shallow = true
-	registered = true
